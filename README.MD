@@ -1,6 +1,6 @@
 # English Error
 
-By EasonSYC
+By Eason Shao
 
 This is a project of my English Errors whilst studying in China.
 
